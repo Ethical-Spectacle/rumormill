@@ -1,5 +1,5 @@
 ---
-icon: microscope
+icon: scale-balanced
 description: >-
   A directory and implementation of SOTA bias detection research papers, all in
   one place.
@@ -16,13 +16,13 @@ layout:
     visible: true
 ---
 
-# Welcome to The Fair-ly Project
+# Welcome to RumorMill
 
 {% hint style="info" %}
-The Fair-ly Project was founded and is maintained by ML researchers of [Ethical Spectacle Research](https://ethicalspectacle.org) and [The Vector Institute](https://vectorinstitute.ai/), who have published ground-breaking bias detection papers such as [Dbias](https://arxiv.org/abs/2208.05777) ('22), [Nbias](https://arxiv.org/abs/2308.01681) ('23), and [GUS-Net](https://arxiv.org/abs/2410.08388) ('24).&#x20;
+RumorMill was founded and is maintained by ML researchers of [Ethical Spectacle Research](https://ethicalspectacle.org) and [The Vector Institute](https://vectorinstitute.ai/).
 {% endhint %}
 
-The Fair-ly Project is an open-source collection of resources, such as:
+RumorMill is an open-source collection of resources, such as:
 
 * Research papers
 * Blogs and videos
@@ -32,13 +32,13 @@ The Fair-ly Project is an open-source collection of resources, such as:
 
 ***
 
-### 🛠️ Fair-ly Toolkit
+### 🛠️ RumorMill Toolkit
 
 Here are a few tools we built for using state-of-the-art models in practice, something for everyone :).
 
 {% tabs %}
 {% tab title="Browser Extension" %}
-### Fair-ly Extension
+### Fair-ly Extension (Pending Renaming)
 
 Our Chrome extension, [Fair-ly](https://chromewebstore.google.com/detail/fair-ly/geoaacpcopfegimhbdemjkocekpncfcc), is a showcase of SOTA models. Anyone can run a bias analysis pipeline/dashboard on their webpage, no code required.
 
@@ -109,7 +109,7 @@ result = analyzer.analyze("Tall people are so clumsy.")
 {% endtabs %}
 
 {% hint style="info" %}
-If you're interested in contributing to the open-source tool-kit, check out our [GitHub](https://github.com/Ethical-Spectacle/fair-ly) and join our [Discord](https://discord.com/invite/Jn6TYxwRjy).
+If you're interested in contributing to the open-source tool-kit, check out our [GitHub](https://github.com/Ethical-Spectacle/rumormill) and join our [Discord](https://discord.com/invite/Jn6TYxwRjy).
 {% endhint %}
 
 ***

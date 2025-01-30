@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to The Fair-ly Project](README.md)
+* [Welcome to RumorMill](README.md)
   * [Recent Papers Timeline](readme/recent-papers-timeline.md)
 
 ## Fair-ly Toolkit <a href="#toolkit" id="toolkit"></a>
@@ -41,7 +41,7 @@
 
 * [To Do List](join/to-do-list.md)
 * [Discord Server](https://discord.gg/Jn6TYxwRjy)
-* [GitHub Repo](https://github.com/Ethical-Spectacle/fair-ly)
+* [GitHub Repo](https://github.com/Ethical-Spectacle/rumormill)
 
 ## Misc
 
